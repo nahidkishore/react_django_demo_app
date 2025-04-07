@@ -162,7 +162,7 @@ class App extends React.Component {
         <div className="container">
 
           <div id="task-container">
-      <h1> Nahidul Islam </h1>
+      <h1> Nahidul Islam  </h1>
               <div  id="form-wrapper">
                  <form onSubmit={this.handleSubmit}  id="form">
                     <div className="flex-wrapper">
